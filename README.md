@@ -1,6 +1,18 @@
-# Hackintosh
+# Hackintosh-Gigabyte-Z390-GAMING-X-i7-9700-RX5700XT
+Procedure and some source file including EFI used when I install hackintosh Catalina 10.15.6
 
-## Installation Windows en UEFI
+## Configuration
+
+| Hardware            | Article                                                        | Amazon Link                                 |
+|---------------------|----------------------------------------------------------------|---------------------------------------------|
+| Montherboard        | Gigabyte Z390 Gaming X                                         | https://www.amazon.fr/gp/product/B07HS4XS93 |
+| CPU                 | Processeur Intel Core i79700                                   | https://www.amazon.fr/gp/product/B07S1MWTQ3 |
+| Graphic Card        | SAPPHIRE Nitro+ Radeon RX 5700 XT 8G GDDR6                     | https://www.amazon.fr/gp/product/B07XGV3FL3 |
+| RAM                 | HyperX Predator HX432C16PB3A/83200 MHz DDR4 CL16 DIMM XMP 8 GB | https://www.amazon.fr/gp/product/B07GLNMS1M |
+| Solid State Drives  | Samsung SSD Interne 970 EVO Plus NVMe M.2 (500 Go)             | https://www.amazon.fr/gp/product/B07MFBLN7K |
+| Wifi&Bluetooth Card | Broco Bluetooth 4.1 1300Mbps                                   | https://www.amazon.fr/gp/product/B081F8ZC38 |
+
+## Install Windows with UEFI
 https://www.youtube.com/watch?v=TyUnEP90e6o
 
 ## Installation MacOS
