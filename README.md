@@ -53,6 +53,6 @@ Volume EFI on disk2s1 mounted
 ```
 - Reboot Windows and install MacOS
 
-## Copy EFI in the disk 
+## Copy EFI to the disk 
 - The tutoriel followed :https://youtu.be/4lpDQzQ6iF0?t=1129
 - EasyUEFI : https://drive.google.com/file/d/1sDhbvH9i8jTXSyw9xwBZPxBc5_xwTvaj/view?usp=sharing
