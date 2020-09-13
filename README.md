@@ -12,6 +12,16 @@ Procedure and some source file including EFI used when I install hackintosh Cata
 | Solid State Drives  | Samsung SSD Interne 970 EVO Plus NVMe M.2 (500 Go)             | https://www.amazon.fr/gp/product/B07MFBLN7K |
 | Wifi&Bluetooth Card | Broco Bluetooth 4.1 1300Mbps                                   | https://www.amazon.fr/gp/product/B081F8ZC38 |
 
+## BIOS Setting
+- Load Optimized Defaults
+- Disable VT-d
+- Close CSM Support
+- Disable Secure Boot Mode
+- Enable XHCI Handoff
+- Set OS type to Other OS
+- Disable intel graphics
+- Save and Exit
+
 ## Install Windows with UEFI
 - The tutoriel followed : https://www.youtube.com/watch?v=TyUnEP90e6o
 - The PE (LaoMaoTao v9.5) : https://drive.google.com/file/d/1-2ZtJwpjRvYulcrS3B3of6kXJ9O7lT35/view?usp=sharing
