@@ -14,11 +14,13 @@ Procedure and some source file including EFI used when I install hackintosh Cata
 | Wifi&Bluetooth Card | Broco Bluetooth 4.1 1300Mbps                                   | https://www.amazon.fr/gp/product/B081F8ZC38 |
 
 ## Install Windows with UEFI
-https://www.youtube.com/watch?v=TyUnEP90e6o
+The tutoriel followed : https://www.youtube.com/watch?v=TyUnEP90e6o
+The PE (LaoMaoTao v9.5) : https://drive.google.com/file/d/1-2ZtJwpjRvYulcrS3B3of6kXJ9O7lT35/view?usp=sharing
 
 ## Installation MacOS
-- Utiliser BalenaEtcher pour créer un bootable clé et graver le fichier d'installation OS dedans
-- Monter EFI de la clé 
+- MacOS Catalina 10.15.6(19G2021) Installer : https://drive.google.com/file/d/1EpBoa79bsdFIl6ydE0vDGrPxn2N2A-a2/view?usp=sharing
+- Creat bootable USB MacOS Install by using BalenaEtcher and the .dmg above
+- Mount USB's EFI et replace by the EFI in this repo.
 ```
 ➜  ~ diskutil list
 /dev/disk0 (internal, physical):
@@ -49,8 +51,7 @@ https://www.youtube.com/watch?v=TyUnEP90e6o
 Password:
 Volume EFI on disk2s1 mounted
 ```
-- Remplacer les dossier booter & clover par ceux qui sont dans ce rép
-- Rédémarrer & installation OS
+- Reboot Windows and install MacOS
 ## Installation MacOS
 ## Copie
 Supprimer Boot de EFI du disk et replamcer par cceluieux qui sont dans usb
