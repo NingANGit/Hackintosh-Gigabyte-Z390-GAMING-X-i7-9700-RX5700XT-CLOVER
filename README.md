@@ -1,4 +1,3 @@
-[WIP]
 # Hackintosh-Gigabyte-Z390-GAMING-X-i7-9700-RX5700XT
 Procedure and some source file including EFI used when I install hackintosh Catalina 10.15.6
 
