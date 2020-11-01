@@ -67,5 +67,14 @@ Volume EFI on disk2s1 mounted
 - The tutoriel followed : https://youtu.be/4lpDQzQ6iF0?t=1129
 - EasyUEFI : https://drive.google.com/file/d/1sDhbvH9i8jTXSyw9xwBZPxBc5_xwTvaj/view?usp=sharing
 
-# USB Mapping
+# After Install
+## USB Mapping
+To solve the hibernate problem (awake 1 second after the hibernate)
+```
+➜  ~ log show --start '2020-11-01 16:20:00' --end '2020-11-01 16:54:00' | grep 'Wake reason'
+2020-11-01 16:20:58.970910+0100 0x74       Default     0x0                  0      0    kernel: (AppleACPIPlatform) AppleACPIPlatformPower Wake reason: XDCI CNVW
+2020-11-01 16:20:58.970912+0100 0x74       Default     0x0                  0      0    kernel: (AppleACPIPlatform) AppleACPIPlatformPower Wake reason: XDCI CNVW
+2020-11-01 16:21:59.945716+0100 0x74       Default     0x0                  0      0    kernel: (AppleACPIPlatform) AppleACPIPlatformPower Wake reason: XDCI CNVW
+2020-11-01 16:21:59.945717+0100 0x74       Default     0x0                  0      0    kernel: (AppleACPIPlatform) AppleACPIPlatformPower Wake reason: XDCI CNVW
+```
 - The tutoriel followed :https://www.youtube.com/watch?v=RwIaDVBYUOU&ab_channel=%E5%A4%A7%E5%A4%B4%E8%94%A1Cass
