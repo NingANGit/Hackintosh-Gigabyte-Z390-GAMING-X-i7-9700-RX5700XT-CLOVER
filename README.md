@@ -12,6 +12,15 @@ Procedure and some source file including EFI used when I install hackintosh Cata
 | Solid State Drives  | Samsung SSD Interne 970 EVO Plus NVMe M.2 (500 Go)             | https://www.amazon.fr/gp/product/B07MFBLN7K |
 | Wifi&Bluetooth Card | Broco Bluetooth 4.1 1300Mbps                                   | https://www.amazon.fr/gp/product/B081F8ZC38 |
 
+## Screenshot
+<p align="center">
+<img src="https://raw.githubusercontent.com/NingANGit/Hackintosh-Gigabyte-Z390-GAMING-X-i7-9700-RX5700XT/master/screenshot/%E6%88%AA%E5%B1%8F2020-11-01%2018.12.30.png" width="600">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/NingANGit/Hackintosh-Gigabyte-Z390-GAMING-X-i7-9700-RX5700XT/master/screenshot/%E6%88%AA%E5%B1%8F2020-11-01%2018.11.18.png" width="600">
+</p>
+
 ## BIOS Setting
 - Load Optimized Defaults
 - Disable VT-d
