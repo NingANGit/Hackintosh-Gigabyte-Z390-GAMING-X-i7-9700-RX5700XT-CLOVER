@@ -108,7 +108,7 @@
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Arguments</key>
-		<string>nv_disable=1 slide=0 agdpmod=pikera shikigva=4 -rad4200 -v</string>
+		<string>nv_disable=1 slide=0 agdpmod=pikera shikigva=4 -rad4200</string>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 		<key>StrictHibernate</key>
@@ -442,22 +442,20 @@
 		<string>0xFD8FF576</string>
 		<key>Board-ID</key>
 		<string>Mac-AA95B1DDAB278B95</string>
-		<key>Trust</key>
-		<true/>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFFDFFF7F</string>
 		<key>BoardVersion</key>
-		<string>1.0</string>
+		<string>iMac19,1</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>0x09</string>
+		<string>0xD</string>
 		<key>BiosVersion</key>
 		<string>IM191.88Z.F000.B00.2006151939</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>Asset Tag#</string>
 		<key>PlatformFeature</key>
 		<string>0x20</string>
 		<key>Family</key>
@@ -465,21 +463,19 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02037306J9LNV91F</string>
+		<string>C029413004NLNV9AD</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
 		<string>iMac19,1</string>
 		<key>SmUUID</key>
-		<string>C8653626-BB79-4B03-BC69-8C087CF1478A</string>
-		<key>Mobile</key>
-		<false/>
+		<string>D847BD77-48E0-49B8-9575-5C2276B2B48D</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>EfiVersion</key>
 		<string>1037.140.50.0.0</string>
 		<key>SerialNumber</key>
-		<string>C02DD0YVJV3Q</string>
+		<string>C02ZJVYDJV3Q</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
@@ -492,7 +488,7 @@
 		<key>InjectSystemID</key>
 		<true/>
 		<key>CustomUUID</key>
-		<string>A02B7ADF-CCF1-5BBB-9747-52ABCF54971D</string>
+		<string>7C946DCD-8ED8-43A4-A601-A6E42B61673E</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 	</dict>
