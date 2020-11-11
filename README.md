@@ -8,7 +8,7 @@ Procedure and some source file including EFI used when I install hackintosh Cata
 | Montherboard        | Gigabyte Z390 Gaming X                                         | https://www.amazon.fr/gp/product/B07HS4XS93 |
 | CPU                 | Processeur Intel Core i79700                                   | https://www.amazon.fr/gp/product/B07S1MWTQ3 |
 | Graphic Card        | SAPPHIRE Nitro+ Radeon RX 5700 XT 8G GDDR6                     | https://www.amazon.fr/gp/product/B07XGV3FL3 |
-| RAM                 | HyperX Predator HX432C16PB3A/83200 MHz DDR4 CL16 DIMM XMP 8 GB | https://www.amazon.fr/gp/product/B07GLNMS1M |
+| RAM*2               | HyperX Predator HX432C16PB3A/83200 MHz DDR4 CL16 DIMM XMP 8 GB | https://www.amazon.fr/gp/product/B07GLNMS1M |
 | Solid State Drives  | Samsung SSD Interne 970 EVO Plus NVMe M.2 (500 Go)             | https://www.amazon.fr/gp/product/B07MFBLN7K |
 | Wifi&Bluetooth Card | Broco Bluetooth 4.1 1300Mbps                                   | https://www.amazon.fr/gp/product/B081F8ZC38 |
 
